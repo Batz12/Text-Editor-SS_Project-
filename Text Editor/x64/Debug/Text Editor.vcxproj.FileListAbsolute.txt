@@ -1,5 +1,0 @@
-C:\Users\anshu\OneDrive\Documents\Text Editor\x64\Debug\Text Editor.vcxproj.AssemblyReference.cache
-C:\Users\anshu\OneDrive\Documents\Text Editor\x64\Debug\Text Editor.vcxproj.SuggestedBindingRedirects.cache
-C:\Users\anshu\OneDrive\Documents\Text Editor\x64\Debug\Text Editor.exe
-C:\Users\anshu\OneDrive\Documents\Text Editor\x64\Debug\TextEditor.MyForm.resources
-C:\Users\anshu\OneDrive\Documents\Text Editor\x64\Debug\Text Editor.vcxproj.GenerateResource.cache
